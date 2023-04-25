@@ -1,0 +1,8 @@
+C:\Users\AMIR\Desktop\tamrin10\tamrin10\bin\Debug\tamrin10.exe.config
+C:\Users\AMIR\Desktop\tamrin10\tamrin10\bin\Debug\tamrin10.exe
+C:\Users\AMIR\Desktop\tamrin10\tamrin10\bin\Debug\tamrin10.pdb
+C:\Users\AMIR\Desktop\tamrin10\tamrin10\obj\Debug\tamrin10.csproj.AssemblyReference.cache
+C:\Users\AMIR\Desktop\tamrin10\tamrin10\obj\Debug\tamrin10.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMIR\Desktop\tamrin10\tamrin10\obj\Debug\tamrin10.csproj.CoreCompileInputs.cache
+C:\Users\AMIR\Desktop\tamrin10\tamrin10\obj\Debug\tamrin10.exe
+C:\Users\AMIR\Desktop\tamrin10\tamrin10\obj\Debug\tamrin10.pdb
